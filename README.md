@@ -1,6 +1,6 @@
 # Hello Universe Lab
 
-![Theo](http://i.imgur.com/ZNL73LF.jpg)  
+![Theo](http://i.imgur.com/ZNL73LF.jpg) , 
 
 > Keep your eyes on the stars, and your feet on the ground. – [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
 
